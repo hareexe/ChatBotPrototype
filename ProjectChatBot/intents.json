@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "tag": "founding_year",
+      "patterns": [
+        "When was the university founded?",
+        "What year was [University Name] established?",
+        "What is the founding year?"
+      ],
+      "responses": [
+        "The university was founded in 1932."
+      ]
+    },
+    {
+      "tag": "founder_name",
+      "patterns": [
+        "Who founded the university?",
+        "Tell me about the founder.",
+        "Who is the founder?",
+        "founder"
+      ],
+      "responses": [
+        "Northwestern University was founded by  .",
+        "The main founder of the university is Nicolas N. Nicolas."
+      ]
+    }
+  ]
+}
